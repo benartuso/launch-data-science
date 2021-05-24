@@ -1,0 +1,26 @@
+Timestamp,Your name:,Choose the dataset you'd MOST like to work on.,Choose the dataset you'd SECOND most like to work on.,Choose the dataset you'd THIRD most like to work on.,Choose the dataset you'd FOURTH most like to work on.,Choose the dataset you'd FIFTH most like to work on.,Choose the dataset you'd SIXTH most like to work on.
+5/24/2021 9:33:18,0,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech,DS4: Coffee quality,"DS3: Tuition, diversity, pay",DS2: Salaries
+5/24/2021 9:35:25,1,"DS3: Tuition, diversity, pay",DS2: Salaries,DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech
+5/24/2021 9:35:35,2,DS2: Salaries,DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech,"DS3: Tuition, diversity, pay"
+5/24/2021 9:35:52,3,"DS3: Tuition, diversity, pay",DS6: Mental health in tech,DS4: Coffee quality,DS1: Plastic waste audits,DS2: Salaries,DS5: Wind turbines
+5/24/2021 9:36:16,4,DS2: Salaries,DS1: Plastic waste audits,DS4: Coffee quality,DS5: Wind turbines,"DS3: Tuition, diversity, pay",DS6: Mental health in tech
+5/24/2021 9:36:35,5,DS4: Coffee quality,DS6: Mental health in tech,"DS3: Tuition, diversity, pay",DS2: Salaries,DS5: Wind turbines,DS1: Plastic waste audits
+5/24/2021 9:37:00,6,DS2: Salaries,DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech,"DS3: Tuition, diversity, pay"
+5/24/2021 9:38:27,7,"DS3: Tuition, diversity, pay",DS2: Salaries,DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech
+5/24/2021 9:39:34,7,DS1: Plastic waste audits,DS5: Wind turbines,DS4: Coffee quality,"DS3: Tuition, diversity, pay",DS6: Mental health in tech,DS2: Salaries
+5/24/2021 9:40:54,8,DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits,DS2: Salaries,"DS3: Tuition, diversity, pay",DS6: Mental health in tech
+5/24/2021 9:40:54,9,DS1: Plastic waste audits,"DS3: Tuition, diversity, pay",DS2: Salaries,DS4: Coffee quality,DS5: Wind turbines,DS6: Mental health in tech
+5/24/2021 9:42:01,10,DS4: Coffee quality,DS6: Mental health in tech,DS1: Plastic waste audits,"DS3: Tuition, diversity, pay",DS2: Salaries,DS5: Wind turbines
+5/24/2021 9:42:50,11,DS5: Wind turbines,"DS3: Tuition, diversity, pay",DS2: Salaries,DS6: Mental health in tech,DS1: Plastic waste audits,DS4: Coffee quality
+5/24/2021 9:43:34,12,"DS3: Tuition, diversity, pay",DS4: Coffee quality,DS1: Plastic waste audits,DS6: Mental health in tech,DS2: Salaries,DS5: Wind turbines
+5/24/2021 9:46:24,13,DS5: Wind turbines,DS1: Plastic waste audits,DS4: Coffee quality,DS2: Salaries,"DS3: Tuition, diversity, pay",DS6: Mental health in tech
+5/24/2021 9:46:24,14,DS4: Coffee quality,DS6: Mental health in tech,DS1: Plastic waste audits,DS2: Salaries,"DS3: Tuition, diversity, pay",DS5: Wind turbines
+5/24/2021 9:46:33,15,DS6: Mental health in tech,DS2: Salaries,"DS3: Tuition, diversity, pay",DS4: Coffee quality,DS5: Wind turbines,DS1: Plastic waste audits
+5/24/2021 9:48:09,16,"DS3: Tuition, diversity, pay",DS4: Coffee quality,DS2: Salaries,DS1: Plastic waste audits,DS5: Wind turbines,DS6: Mental health in tech
+5/24/2021 9:48:40,17,DS5: Wind turbines,DS1: Plastic waste audits,DS4: Coffee quality,"DS3: Tuition, diversity, pay",DS2: Salaries,DS6: Mental health in tech
+5/24/2021 9:49:39,18,DS5: Wind turbines,DS1: Plastic waste audits,"DS3: Tuition, diversity, pay",DS4: Coffee quality,DS6: Mental health in tech,DS2: Salaries
+5/24/2021 9:52:01,19,DS6: Mental health in tech,DS2: Salaries,DS5: Wind turbines,DS1: Plastic waste audits,"DS3: Tuition, diversity, pay",DS4: Coffee quality
+5/24/2021 9:54:17,20,DS2: Salaries,DS5: Wind turbines,DS4: Coffee quality,DS1: Plastic waste audits,DS6: Mental health in tech,"DS3: Tuition, diversity, pay"
+5/24/2021 9:54:57,21,"DS3: Tuition, diversity, pay",DS2: Salaries,DS5: Wind turbines,DS1: Plastic waste audits,DS6: Mental health in tech,DS4: Coffee quality
+5/24/2021 9:59:08,22,DS1: Plastic waste audits,DS6: Mental health in tech,"DS3: Tuition, diversity, pay",DS4: Coffee quality,DS2: Salaries,DS5: Wind turbines
+5/24/2021 10:01:39,23,"DS3: Tuition, diversity, pay",DS2: Salaries,DS5: Wind turbines,DS4: Coffee quality,DS6: Mental health in tech,DS1: Plastic waste audits
